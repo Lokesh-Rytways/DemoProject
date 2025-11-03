@@ -9,7 +9,8 @@
 	<name>demo</name>
 	<url>http://maven.apache.org</url>
 	<description>Demo project for Spring Boot</description>
-    <dependency>
+	 <dependencies>
+     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
